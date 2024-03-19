@@ -1,0 +1,99 @@
+body {
+    font-family: sans-serif;
+    background-color: #E0ECF6;
+}
+header div a:hover{
+    padding: 5px;
+    margin-left: 165px;
+    text-decoration: none;
+    color:black;
+    background-color:#e0d7f84f ;
+    border:5px solid #c7bedd;
+    border-radius: 15px;
+    font-size: 30px;
+    transition:0.5s ease-out;
+}
+header{
+    background-color: #948DBD;
+    width: 1434px;
+    height: 168px;
+    margin-left: 60px;
+}
+header div{
+    padding: 40px;
+    padding-left: 160px;
+}
+header div a{
+    margin-left: 165px;
+    text-decoration: none;
+    color:black;
+}
+a{
+    font-size: 25px;
+}
+footer img{
+    width: 112px;
+    height: 112px;
+    padding-top:40px
+}
+footer{
+    margin-left: 60px;
+    background-color: #938CA6;
+    width: 1440px;
+    height: 175px;
+}
+footer p{
+    padding-top:50px;
+    margin-right: 65px;
+}
+.insta{
+    width: 60px;
+    height: 60px;
+    padding:25px
+}
+.tiktok{
+    width: 60px;
+    height: 60px;
+    padding:25px
+}
+footer div{
+    float:right;
+    width: 350px;
+}
+section img{
+    width: 247px;
+    height:247px ;
+    border-radius: 1000px;
+    float: left;
+}
+section div{
+    width: 265px;
+    height: 485px;
+    padding-left: 55px;
+    padding-bottom: 50px;
+    opacity: 0.5;
+}
+section div:hover{
+    width: 275px;
+    height: 495px;
+    padding: 25px;
+    padding-left: 55px;
+    padding-bottom: 50px;
+    opacity:1;
+    transition: 1s linear;
+}
+section{
+    display: flex;
+    padding-left: 120px;
+
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.I{
+    font-size: 25px;
+    padding-bottom: 0px;
+}
